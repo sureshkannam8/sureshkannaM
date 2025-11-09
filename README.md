@@ -1,2 +1,77 @@
-# sureshkannaM
-Hello World, this is my profile
+# Hi there, I'm SURESH KANNA M! 👋 from Tamil Nadu, India.
+
+---
+
+## About Me
+
+I’m a **Digital Marketing Executive** with a strong foundation in content writing, keyword strategy, campaign management, and technical support for digital marketing teams. With 1.5 years of hands-on experience, I’m skilled at using industry tools to enhance digital visibility and optimize ROI. I specialize in supporting teams by troubleshooting technical issues, integrating analytics, and streamlining workflows. I love building dashboards, analyzing metrics, and keeping up with the latest in marketing and tech.
+
+**Here are a few things I love to do:**
+- 👨‍💻 Digital marketing & campaign strategy
+- 🛠️ Technical support for digital marketing team
+- 🌱 Learning about new tools and platforms
+- 📊 Data analysis and reporting
+- 📝 Writing and publishing research-intensive blogs
+
+---
+
+## Skills
+
+- **Digital Marketing**: PPC, SEM, SEO, Content Writing, Campaign Analysis, Conversion Rate Optimization, Social Media Optimization
+- **Technical & QA**: Manual Testing Fundamentals, SDLC & STLC, Test Case Writing, JIRA, Functional & Regression Testing, Defect Documentation, Troubleshooting Analytics Issues
+- **SEO & Analytics Tools**: Google Ads, SEMrush, Google Analytics, Looker Studio, Agency Analytics, HubSpot, Google Search Console, WordPress, SpyFu
+- **Data Visualization & Software**: Google Data Studio, Google Sheets, Canva, Excel, ChatGPT
+- **Soft Skills**: Presentation, Planning, Creative Problem-Solving, Teamwork, Active Listening, Adaptability, Analytical Thinking
+
+---
+
+## My GitHub Stats
+
+![Suresh Kanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=sureshkannam8&show_icons=true&theme=radical)
+
+---
+
+## Featured Projects
+
+- **Competitor Analysis for Growth**  
+  Performed in-depth competitor analysis to identify growth opportunities and content gaps.
+- **Keyword Research Project**  
+  Conducted keyword research for niche content projects with 50+ high-intent keywords.
+- **Performance Tracking & Reporting**  
+  Tracked rankings, CTR, and impressions; generated weekly reports using Looker Studio & Google Sheets.
+
+---
+
+## Certifications
+
+- **HubSpot SEO Certification** – HubSpot Academy, Jan 2025
+- **Semrush Keyword Research Certification** – Semrush Academy, Jan 2025
+- **Content Writing Course** – Udemy, Jan 2025
+- **Foundations of Google Analytics** – Google, Jun 2024
+- **Product Marketing Course** – Great Learning, Jul 2025
+
+---
+
+## Connect with Me
+
+- [LinkedIn](https://linkedin.com/in/suresh-kanna-digital-marketing-executive)
+- [Email](mailto:sureshkannam8@gmail.com)
+- Location: Kanchipuram, Tamil Nadu, India
+
+---
+
+## My Blog
+
+Check out my latest articles and insights:
+
+- [Perplexity AI: The Future of Smart Search](https://medium.com/@sureshkannam8/perplexity-ai-the-future-of-smart-search-cc5b8f0fbfbd)
+- [How I Faced and Fixed My Google Merchant Center Suspension: A Marketer’s Journey](https://medium.com/@sureshkannam8/how-i-faced-and-fixed-my-google-merchant-center-suspension-a-marketers-journey-8255df515db3)
+- [The Hidden Twin: How Two GTM Containers Silently Broke Google Ads Conversions in WordPress](https://medium.com/@sureshkannam8/the-hidden-twin-how-two-gtm-containers-silently-broke-google-ads-conversions-in-wordpress-555de46fb94c)
+- [The Silent Sentinel: How the Palmyra Palm Holds the Soul of the Land](https://medium.com/@sureshkannam8/the-silent-sentinel-how-the-palmyra-palm-holds-the-soul-of-the-land-4854d8ca702c)
+- [Ideas Without Experience Lead to a Man Without Empathy](https://medium.com/@sureshkannam8/ideas-without-experience-lead-to-a-man-without-empathy-f4d0d243d147)
+
+You can find more posts at [My Medium Profile](https://medium.com/@sureshkannam8).
+
+---
+
+> “Continuous learning is the key to digital success.”
