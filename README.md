@@ -25,21 +25,6 @@ I’m a **Digital Marketing Executive** with a strong foundation in content writ
 
 
 
-
-## Tools I Worked With
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googleads.svg" alt="Google Ads" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Meta Ads" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/amazon.png" alt="Amazon Ads" height="40"/>&nbsp;
-  <img src="https://static.agencyanalytics.com/assets/images/favicon/favicon-96x96.png" alt="Agency Analytics" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoft.svg" alt="Microsoft Ads" height="40"/>&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_analytics_logo_icon_170351.png" alt="Google Analytics" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Google_Data_Studio_Logo.png" alt="Google Data Studio" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Google_Tag_Manager_logo.png" alt="Google Tag Manager" height="40"/>
-</p>
-
-
 ---
 
 ## My GitHub Stats
