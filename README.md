@@ -1,4 +1,4 @@
-# Hi there, I'm SURESH KANNA M! 👋 from Tamil Nadu, India.
+# Hi there, I'm Suresh Kanna M! 👋 from Tamil Nadu, India.
 
 ---
 
@@ -18,12 +18,10 @@ I’m a **Digital Marketing Executive** with a strong foundation in content writ
 ## Skills
 
 - **Digital Marketing**: PPC, SEM, SEO, Content Writing, Campaign Analysis, Conversion Rate Optimization, Social Media Optimization
-- **Technical & QA**: Manual Testing Fundamentals, SDLC & STLC, Test Case Writing, JIRA, Functional & Regression Testing, Defect Documentation, Troubleshooting Analytics Issues
+- **Product Marketing**: Go-To-Market (GTM) Strategy, Competitor Analysis, Customer & Market Research
 - **SEO & Analytics Tools**: Google Ads, SEMrush, Google Analytics, Looker Studio, Agency Analytics, HubSpot, Google Search Console, WordPress, SpyFu
 - **Data Visualization & Software**: Google Data Studio, Google Sheets, Canva, Excel, ChatGPT
 - **Soft Skills**: Presentation, Planning, Creative Problem-Solving, Teamwork, Active Listening, Adaptability, Analytical Thinking
-
-
 
 ---
 
