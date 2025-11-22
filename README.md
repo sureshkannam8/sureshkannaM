@@ -54,7 +54,7 @@ I’m a **Digital Marketing Executive** with a strong foundation in content writ
 
 ## Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/suresh-kanna-digital-marketing-executive)
+- [LinkedIn](https://www.linkedin.com/in/suresh-kanna-mohanam/)
 - [Email](mailto:sureshkannam8@gmail.com)
 - Location: Kanchipuram, Tamil Nadu, India
 
